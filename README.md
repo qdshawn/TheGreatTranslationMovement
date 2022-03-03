@@ -16,3 +16,7 @@
 
 ## 帮助这个项目
 1. 请到我们的discord server @ 管理员获得编辑的权限
+
+## 帮助传播这个项目的成果
+1. 大部分完成的翻译会被放到closed issue中
+2. 如果想要全部的（包括初稿），那么可以从issue中挑选所有拥有"complete" tag的issue
