@@ -4,7 +4,7 @@
 ## 发起一个新的翻译：
 1. 开始一个issue
 2. 在issue的textbox中粘贴从discord中复制的图片
-3. 给这个issue作tag "imcomplete"
+3. 给这个issue作tag "imcomplete"和urgent程度
 
 ## 帮助一个翻译
 1. 在已开始的issue下评论
