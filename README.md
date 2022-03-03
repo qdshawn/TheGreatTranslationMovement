@@ -12,6 +12,7 @@
 3. 可选择assign自己到帮助的issue, 并给issue tag "in progress"
 4. 一个翻译如果完成，请tag "complete",并取消"imcomplete"的tag
 5. 如果只提供文字翻译，请不要tag "complete"，并tag相应的语言，并tag "translated"
+6. 一个issue被tag "complete"后，过一段时间会被close，以供集中archive
 
 ## 帮助这个项目
 1. 请到我们的discord server @ 管理员获得编辑的权限: https://discord.gg/2BHdmpmr
