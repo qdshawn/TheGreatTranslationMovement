@@ -1,5 +1,5 @@
 # TheGreatTranslationMovement
-#TheGreatTranslationMovement by chonglangtv, for version control and archive
+#TheGreatTranslationMovement #大翻译运动 by chonglangtv, for version control and archive
 
 ## 发起一个新的翻译：
 1. 开始一个issue
