@@ -15,4 +15,4 @@
 6. 一个issue被tag "complete"后，过一段时间会被close，以供集中archive
 
 ## 帮助这个项目
-1. 请到我们的discord server @ 管理员获得编辑的权限: https://discord.gg/2BHdmpmr
+1. 请到我们的discord server @ 管理员获得编辑的权限
